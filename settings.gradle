@@ -1,0 +1,2 @@
+rootProject.name = "Concat Adapter"
+include ':app'
